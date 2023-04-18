@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = NetCoreTask.WindowsApp
+build_property.ProjectDir = C:\Users\user\Source\Repos\netcoretask\NetCoreTask\NetCoreTask.WindowsApp\

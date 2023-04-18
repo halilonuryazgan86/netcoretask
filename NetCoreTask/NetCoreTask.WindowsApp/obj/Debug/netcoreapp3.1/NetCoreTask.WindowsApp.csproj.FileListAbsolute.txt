@@ -1,0 +1,16 @@
+C:\Users\user\Source\Repos\netcoretask\NetCoreTask\NetCoreTask.WindowsApp\bin\Debug\netcoreapp3.1\NetCoreTask.WindowsApp.exe
+C:\Users\user\Source\Repos\netcoretask\NetCoreTask\NetCoreTask.WindowsApp\bin\Debug\netcoreapp3.1\NetCoreTask.WindowsApp.deps.json
+C:\Users\user\Source\Repos\netcoretask\NetCoreTask\NetCoreTask.WindowsApp\bin\Debug\netcoreapp3.1\NetCoreTask.WindowsApp.runtimeconfig.json
+C:\Users\user\Source\Repos\netcoretask\NetCoreTask\NetCoreTask.WindowsApp\bin\Debug\netcoreapp3.1\NetCoreTask.WindowsApp.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\netcoretask\NetCoreTask\NetCoreTask.WindowsApp\bin\Debug\netcoreapp3.1\NetCoreTask.WindowsApp.dll
+C:\Users\user\Source\Repos\netcoretask\NetCoreTask\NetCoreTask.WindowsApp\bin\Debug\netcoreapp3.1\NetCoreTask.WindowsApp.pdb
+C:\Users\user\Source\Repos\netcoretask\NetCoreTask\NetCoreTask.WindowsApp\obj\Debug\netcoreapp3.1\NetCoreTask.WindowsApp.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\netcoretask\NetCoreTask\NetCoreTask.WindowsApp\obj\Debug\netcoreapp3.1\NetCoreTask.WindowsApp.Form1.resources
+C:\Users\user\Source\Repos\netcoretask\NetCoreTask\NetCoreTask.WindowsApp\obj\Debug\netcoreapp3.1\NetCoreTask.WindowsApp.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\netcoretask\NetCoreTask\NetCoreTask.WindowsApp\obj\Debug\netcoreapp3.1\NetCoreTask.WindowsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\netcoretask\NetCoreTask\NetCoreTask.WindowsApp\obj\Debug\netcoreapp3.1\NetCoreTask.WindowsApp.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\netcoretask\NetCoreTask\NetCoreTask.WindowsApp\obj\Debug\netcoreapp3.1\NetCoreTask.WindowsApp.AssemblyInfo.cs
+C:\Users\user\Source\Repos\netcoretask\NetCoreTask\NetCoreTask.WindowsApp\obj\Debug\netcoreapp3.1\NetCoreTask.WindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\netcoretask\NetCoreTask\NetCoreTask.WindowsApp\obj\Debug\netcoreapp3.1\NetCoreTask.WindowsApp.dll
+C:\Users\user\Source\Repos\netcoretask\NetCoreTask\NetCoreTask.WindowsApp\obj\Debug\netcoreapp3.1\NetCoreTask.WindowsApp.pdb
+C:\Users\user\Source\Repos\netcoretask\NetCoreTask\NetCoreTask.WindowsApp\obj\Debug\netcoreapp3.1\NetCoreTask.WindowsApp.genruntimeconfig.cache
